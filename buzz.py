@@ -1,5 +1,5 @@
 def buzz(n):
     if n % 5 == 0:
-            return'buzz'
+        return'buzz'
     else:
         return n
