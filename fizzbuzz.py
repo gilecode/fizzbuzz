@@ -11,4 +11,3 @@ def fizzbuzz(n):
     if buzz(n) == 'buzz':
         return 'buzz'
     return n
-
